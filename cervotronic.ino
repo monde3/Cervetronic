@@ -62,6 +62,10 @@ void Calentar (){
 	}
 }
 
+void Hervir(){
+
+}
+
 void loop () {
 	if(digitalRead(BotonStart) == HIGH){
 		if(START == 0){
